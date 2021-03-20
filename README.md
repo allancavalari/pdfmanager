@@ -52,9 +52,7 @@ MS Windows + NET Framework 4.7.2
 
 # Download
 
-## First release (v0.1beta)
-
-[Download here](https://github.com/allancavalari/pdfmanager/releases/tag/v0.1beta)
+[First release (v0.1beta)](https://github.com/allancavalari/pdfmanager/releases/tag/v0.1beta)
 
 &nbsp;
 
