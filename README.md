@@ -1,12 +1,18 @@
-# What?
-
-PDFmanager is a free software developed to help to organize, edit metadata (author and title) and rename all your PDF files based on these informations.
+# PDFmanager
 
 ![Screen shot](img/screenshot.PNG)
 
-# Why?
+## What?
+
+PDFmanager is a free software developed to help to organize, edit metadata (author and title) and rename all your PDF files based on these informations.
+
+&nbsp;
+
+## Why?
 
 Sometimes we need to clean up our library, or classify the files, and there's no simple tool for making it easier, mainly when there's a lot of PDF's.
+
+&nbsp;
 
 # Main features
 
@@ -22,6 +28,7 @@ Sometimes we need to clean up our library, or classify the files, and there's no
     * If the folder doesn't exists, it will be created;
 * The software modifies your files  (TAGs, filename and exclusion) only when clicking on Save * button.
 
+&nbsp;
 
 # Tips
 
@@ -29,21 +36,27 @@ Sometimes we need to clean up our library, or classify the files, and there's no
 2. Double-click over one PDF in the list to open this in your default PDF viewer;
 3. Check the "Cache" button for speeding up the file list load on next time you run the application;
 
+&nbsp;
 
 # Know issues
 
 Some PDF files can not be open due to codification/protection restrictions.
 
+&nbsp;
 
 # Requirements
 
 MS Windows + NET Framework 4.7.2
+
+&nbsp;
 
 # Download
 
 ## First release (v0.1beta)
 
 [Download here](https://github.com/allancavalari/pdfmanager/releases/tag/v0.1beta)
+
+&nbsp;
 
 # Libraries
 
